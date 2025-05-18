@@ -1,5 +1,5 @@
-![image](![image](https://github.com/user-attachments/assets/a29db0d5-4343-4435-9f4d-386f94e7cdac)
-)
+![image](https://github.com/user-attachments/assets/9a9636a8-3a74-4404-9d98-998e73c422ca)
+
 <h1>Howdy!, I am <a href="https://github.com/hridaya14">Hridaya</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 </h1>
 
