@@ -1,4 +1,5 @@
-![image](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDczNDA4MjcsIm5iZiI6MTc0NzM0MDUyNywicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA1MTUlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNTE1VDIwMjIwN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTYyZGE1YzBhNDk4YTFjM2YwOGZkZmQ5MTIwNjc4ZDc2YjE3Y2JmM2FiZDgxMzBjNDc4Y2ZiODQ3YzI3NGExNmQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.Tak8T8fJ3MIWG08k2iXhsasmSQc8BmcJ8sDxiNqsD5Y)
+![image](![image](https://github.com/user-attachments/assets/a29db0d5-4343-4435-9f4d-386f94e7cdac)
+)
 <h1>Howdy!, I am <a href="https://github.com/hridaya14">Hridaya</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
 </h1>
 
